@@ -1,5 +1,7 @@
 # Python toolbox
 
+Code from learning, personal projects, and school projects...
+
 Standard code for various basic treatments in Python
 
 api_open_weather.py: Call to the OpenWeather API
@@ -16,6 +18,9 @@ trame_api.py: Usage of the OpenWeather API
 trame_tkinter.py
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Code issu de l'apprentissage, de projets personnels et de projets scolaires...
+
 Code standard pour divers traitements de base en Python
 
 api_open_weather.py : Appel à l'API d'OpenWeather
